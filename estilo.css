@@ -1,0 +1,176 @@
+*{
+	font-family: 'teko', cursive;
+	font-weight: 600;
+	font-size: 80px;
+	color: #1DD6FF;
+	background-color: #000824;
+}
+
+header{
+	padding: 100px;
+	padding-top: 500px;
+}
+
+h1{
+	margin: auto;
+	padding: 100px;
+	font-size: 350px;
+	text-align: center;
+	color: #fff;
+	background-color: #555;
+	border: 30px solid #4B24D8;
+}
+
+.navegation{
+	background-color: none;
+	text-align: center;
+	height: 1200px;
+}
+
+
+
+li{
+	display: flex inline;
+	width: 800px;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	padding: 0px 100px;
+	margin: 5px;
+	background-color: #2368B7;
+	border-radius: 180px;
+}
+
+li:hover {
+	background-color: #4B24D8;
+}
+
+.information p{
+	text-align: center;
+	margin-top: -100px;
+	font-size: 65px;
+}
+
+.description p{
+	text-align: center;
+}
+
+p{
+	margin: 100px;
+	font-family: 'Asap', sans-serif;
+	color: white;
+}
+
+b{
+	font-family: 'Asap', sans-serif;
+	color: #1DD6FF;
+}
+
+a:hover{
+	color: #1DD6FF;
+}
+
+/*
+.links{
+	display: flex inline;
+	position: relative;
+	color: #4B24D8;
+	top: -75px;
+	left: 20px;
+}*/
+
+.logoDiscord{
+	display: flex inline;
+	padding-top: 50px;
+	margin-left: 100px;
+	width: 200px; height: 200px;
+}
+
+.subtitle{
+	font-size: 250px;
+	background-color: #555;
+	color: white;
+	text-align: center;
+}
+
+.projects{
+	padding: 100px;
+	height: 1500px;
+}
+
+
+.projectsDescription{
+	background-color: #1DD6FF;
+	padding: 20px;
+	border: 60px solid #4B24D8;
+	border-radius: 180px;
+	text-align: center;
+}
+
+.projectsDescription p{
+	background-color: #1DD6FF;
+	text-align: center;
+	color: #000;
+	padding: 20px;
+	margin: 50px;
+}
+
+.projectsDescription li:hover{
+	background-color: #000;
+}
+
+.option{
+	display: flex inline;
+	width: 800px;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	padding: 0px 100px;
+	margin: 5px;
+	background-color: #2368B7;
+	border-radius: 180px;
+}
+
+h4{
+	text-align: center;
+	height: 0;
+	color: #000;
+	font-size: 80px;
+}
+
+h3{
+	width: 50%;
+	margin: 0 25%;
+	text-align: center;
+	color: #000;
+	font-size: 200px;
+	background-color: #1DD6FF;
+}
+
+.footer{
+	background-color: none;
+	text-align: center;
+	height: 1200px;
+	margin-top: 500px;
+}
+
+img{
+	width: 200px; 
+	height: 200px;
+}
+
+.social{
+	display: flex inline;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	padding: 0px 0px;
+	margin: 0px;
+	border-radius: 180px;
+}
+
+a{
+	color: white;
+	width: 500px;
+}
+
